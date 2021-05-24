@@ -162,4 +162,6 @@ Thumbs.db
 .prof
 
 dataset/
+notebooks/.vector_cache
+notebooks/.data
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
